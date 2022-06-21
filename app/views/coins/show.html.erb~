@@ -1,5 +1,3 @@
-<h1>Editando Moeda</h1>
-
 <p style="color: green"><%= notice %></p>
 
 <%= render @coin %>
